@@ -4,3 +4,5 @@ To-Do
 - Do Dishes
 - Take a Shower
 - Play Videogames
+- Eat Dinner
+- Take Pills
